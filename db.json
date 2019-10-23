@@ -1,24 +1,25 @@
 {
-   "city": [
+      "1": [
        {
            "id" : 1,
         "city" : "Moscow",
         "location" :"55.7504461; 37.6174943",
         "weather" : "Rainy"
-       },
-       {
+       }]
+      "2":[ {
            "id" : 2,
          "city" : "Bryansk",
         "location" :"53.2423778; 34.3668288",
         "weather" : "Sunny"
-       },
-        {
+       }]
+      "3":[{
            "id" : 3,
          "city" : "Minsk",
         "location" :"53.902334; 27.5618791",
         "weather" : "Nasty"
-       },
-       {
+       }]
+      "4":[       
+            {
            "id" : 4,
            "city" : "Kiev",
         "location" :"50.4312044; 30.530904",
